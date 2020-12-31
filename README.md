@@ -5,7 +5,8 @@
 <!--
 Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30"/>
 -->
-# I'm VIVEK WESLEY <br /> <code> a budding developer </code>
+# <code> I'm VIVEK WESLEY_ </code>
+<code> a budding developer </code>
 
 - 🔭 I’m currently working on ... Personal Project
 - 🌱 I’m currently learning ... Data Structures and Algorithms
