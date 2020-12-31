@@ -8,6 +8,9 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+___
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=VivekWesley)](https://github.com/anuraghazra/github-readme-stats)
+___
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VivekWesley)](https://github.com/anuraghazra/github-readme-stats)
+
 
