@@ -7,7 +7,7 @@ Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangand
 -->
 
 # I'm VIVEK WESLEY_
-###### A BUDDING SOFTWARE DEVELOPER
+<code> A BUDDING SOFTWARE DEVELOPER </code>
 
 #### MY TECH-STACK
 ```javascript
