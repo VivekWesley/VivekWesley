@@ -9,12 +9,12 @@ Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangand
 # I'm VIVEK WESLEY_
 <code> A BUDDING SOFTWARE DEVELOPER </code>
 
-#### MY TECH-STACK
+### MY TECH-STACK
 ```javascript
 var myTechStack = [ "Node.js", "React", "MongoDB", "Express" ]
 ```
 
-#### WHAT AM I LEARNING?
+### WHAT AM I LEARNING?
 
 ```javascript
 var topics = [ "React", "C++", "Data Structures and Algorithms" ] 
@@ -29,10 +29,10 @@ var topics = [ "React", "C++", "Data Structures and Algorithms" ]
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=VivekWesley)](https://github.com/anuraghazra/github-readme-stats)
 
-#### YOU MIGHT WANT TO CHECK THIS OUT
+### YOU MIGHT WANT TO CHECK THIS OUT
 [Rick And Morty](https://vivekwesley.github.io/Rick-and-Morty-Episode/ "rick and morty episode app") [ [repo](https://github.com/VivekWesley/Rick-and-Morty-Episode "repo") ]
   
 
 
-#### :point_down: Support me here!
+### :point_down: Support me here!
 <a href="https://www.buymeacoffee.com/vivekwesley" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
