@@ -6,7 +6,7 @@
 Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30"/>
 -->
 # I'm VIVEK WESLEY_
-###### >A BUDDING SOFTWARE DEVELOPER
+>###### A BUDDING SOFTWARE DEVELOPER
 
 #### YOU MIGHT WANT TO CHECK THIS OUT
 [Rick And Morty](https://vivekwesley.github.io/Rick-and-Morty-Episode/ "rick and morty episode app") [ [repo](https://github.com/VivekWesley/Rick-and-Morty-Episode "repo") ]
