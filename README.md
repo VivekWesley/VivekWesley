@@ -1,4 +1,4 @@
-<img src='https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif'  align="right" width="50%" height="70%" /> 
+<img src='https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif'  align="right" width="45%" height="70%" /> 
 
 #### Hello World<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30"/> 
 
@@ -8,25 +8,19 @@ Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangand
 # I'm VIVEK WESLEY_
 ###### A BUDDING SOFTWARE DEVELOPER
 
+#### MY TECH-STACK
+
+```javascript
+var myTechStack = [ "Node.js", "React", "MongoDB", "Express" ]
+```
+
+#### WHAT AM I LEARNING?
+```javascript
+var topics = [ "React", "C++", "Data Structures and Algorithms" ]
+```
+
 #### YOU MIGHT WANT TO CHECK THIS OUT
 [Rick And Morty](https://vivekwesley.github.io/Rick-and-Morty-Episode/ "rick and morty episode app") [ [repo](https://github.com/VivekWesley/Rick-and-Morty-Episode "repo") ]
-
-
-#### WHAT I'M UP TO?
-
-- 🔭 I’m currently working on ... Personal Project
-- 🌱 I’m currently learning ... Data Structures and Algorithms
-- 📫 How to reach me: ... 
-- 🔭 I’m currently working on ... Personal Project
-- 🌱 I’m currently learning ... Data Structures and Algorithms
-- 📫 How to reach me: ...
-
-
-#### WHAT AM I LEARNING
-```
-var topics = [ "Node.js", "React", "MongoDB", "Express" ]
-```
-
 
 
 [<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ipK3ZYfm--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/80/hacktoberfest2020-badge_2.png" width="60" />](https://dev.to/badge/hacktoberfest-2020)
