@@ -6,7 +6,7 @@
 Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30"/>
 -->
 
-# I'm VIVEK WESLEY_
+# I'M VIVEK WESLEY_
 <code> A BUDDING SOFTWARE DEVELOPER </code>
 
 ### MY TECH-STACK
