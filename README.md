@@ -6,21 +6,28 @@
 Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30"/>
 -->
 # I'm VIVEK WESLEY_
->###### A BUDDING SOFTWARE DEVELOPER
+###### A BUDDING SOFTWARE DEVELOPER
 
 #### YOU MIGHT WANT TO CHECK THIS OUT
 [Rick And Morty](https://vivekwesley.github.io/Rick-and-Morty-Episode/ "rick and morty episode app") [ [repo](https://github.com/VivekWesley/Rick-and-Morty-Episode "repo") ]
 
 
 #### WHAT I'M UP TO?
-```
+
 - 🔭 I’m currently working on ... Personal Project
 - 🌱 I’m currently learning ... Data Structures and Algorithms
 - 📫 How to reach me: ... 
 - 🔭 I’m currently working on ... Personal Project
 - 🌱 I’m currently learning ... Data Structures and Algorithms
 - 📫 How to reach me: ...
+
+
+#### WHAT AM I LEARNING
 ```
+var topics = [ "Node.js", "React", "MongoDB", "Express" ]
+```
+
+
 
 [<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ipK3ZYfm--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/80/hacktoberfest2020-badge_2.png" width="60" />](https://dev.to/badge/hacktoberfest-2020)
   
