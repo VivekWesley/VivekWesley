@@ -7,7 +7,7 @@ Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangand
 -->
 
 # I'm VIVEK WESLEY_
-#### <code> a budding developer </code>
+###### <code> A BUDDING SOFTWARE DEVELOPER </code>
 
 - 🔭 I’m currently working on ... Personal Project
 - 🌱 I’m currently learning ... Data Structures and Algorithms
