@@ -9,9 +9,8 @@ Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangand
 ###### <code> A BUDDING SOFTWARE DEVELOPER </code>
 
 #### YOU MIGHT WANT TO CHECK THIS OUT
-<code>
-  [Rick And Morty](https://vivekwesley.github.io/Rick-and-Morty-Episode/ "rick and morty episode app") 
-      repo --> [click here](https://github.com/VivekWesley/Rick-and-Morty-Episode "repo")
+
+<code>[Rick And Morty](https://vivekwesley.github.io/Rick-and-Morty-Episode/ "rick and morty episode app") [ [repo](https://github.com/VivekWesley/Rick-and-Morty-Episode "repo") ]
 </code>
 
 #### WHAT I'M UP TO?
