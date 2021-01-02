@@ -76,6 +76,32 @@ var topics = [ "React", "C++", "Data Structures and Algorithms" ]
 </p>
 
 
+
+
+
+### <code>HOW TO CONNECT WITH ME</code>
+<!-- CONNECT WITH ME -->
+<p>
+<!-- 
+<a href="https://discord.gg/XTW52Kt">
+  <img align="left" alt="Vivek Wesley's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a> -->
+
+<a href="https://twitter.com/vivek_wesley">
+  <img align="left" alt="vivek_wesley | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/vivek-wesley-ab125380/">
+  <img align="left" alt="Vivek Wesley's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://open.spotify.com/user/31ibtllpkpqpjpmwokcppzvn2bi4">
+  <img align="left" alt="Vievk Wesley's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+</a>
+<!-- <a href="https://www.reddit.com/user/geekyabhi/"> 
+  <img align="left" alt="Abhishek's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
+</a>
+-->
+</p>
+
 <!-- SUPPORT ME SECTION [BUY ME A COFFEE] -->  
 <!-- ### :point_down: Support me here!
 <a href="https://www.buymeacoffee.com/vivekwesley" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a> -->
