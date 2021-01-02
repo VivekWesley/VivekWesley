@@ -43,7 +43,6 @@ var topics = [ "React", "C++", "Data Structures and Algorithms" ]
 
 </div>
 
-
 <div>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekWesley&layout=compact&theme=tokyonight" alt="languages" height="165" width="430" align="right">
@@ -52,5 +51,11 @@ var topics = [ "React", "C++", "Data Structures and Algorithms" ]
 
 <!-- PROFILE VIEWS -->
 <div>
-<img src=https://komarev.com/ghpvc/?username=VivekWesley alt="VivekWesley" align="right" />
+<img src=https://komarev.com/ghpvc/?username=VivekWesley alt="VivekWesley" align="left" />
 </div>
+
+
+
+<!-- SUPPORT ME SECTION [BUY ME A COFFEE] -->  
+<!-- ### :point_down: Support me here!
+<a href="https://www.buymeacoffee.com/vivekwesley" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a> -->
