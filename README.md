@@ -20,6 +20,15 @@ var myTechStack = [ "Node.js", "React", "MongoDB", "Express" ]
 ```javascript
 var topics = [ "React", "C++", "Data Structures and Algorithms" ] 
 ``` 
+
+<!-- FEATURED PROJECTS -->
+<div>
+  
+### YOU MIGHT WANT TO CHECK THIS OUT
+[Rick And Morty](https://vivekwesley.github.io/Rick-and-Morty-Episode/ "rick and morty episode app") [ [repo](https://github.com/VivekWesley/Rick-and-Morty-Episode "repo") ]
+
+</div>
+
 <!-- GITHUB README STATS AND MOST USED LANGUAGES -->
 <div>
 <div align="justified">
@@ -39,30 +48,14 @@ var topics = [ "React", "C++", "Data Structures and Algorithms" ]
 </div>
 
 
-<!-- FEATURED PROJECTS -->
-<div>
-  
-### YOU MIGHT WANT TO CHECK THIS OUT
-[Rick And Morty](https://vivekwesley.github.io/Rick-and-Morty-Episode/ "rick and morty episode app") [ [repo](https://github.com/VivekWesley/Rick-and-Morty-Episode "repo") ]
-
-</div>
 
 
 
-
-
-
-<div>
-<hr/>
-  <hr>
-  <hr>
- 
   <!-- PROFILE VIEWS -->
 <div>
 <img src=https://komarev.com/ghpvc/?username=VivekWesley alt="VivekWesley" align="left" />
 </div>
 
-</div>
 
 <!-- SUPPORT ME SECTION [BUY ME A COFFEE] -->  
 <!-- ### :point_down: Support me here!
