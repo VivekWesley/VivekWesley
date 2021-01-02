@@ -36,17 +36,15 @@ var topics = [ "React", "C++", "Data Structures and Algorithms" ]
 
 </div>
 
+
 <!-- GITHUB README STATS AND MOST USED LANGUAGES -->
 <div>
 <div align="justified">
   
-<img src="https://github-readme-stats.vercel.app/api?username=VivekWesley&show_icons=true&theme=tokyonight" alt="my github stats" width="400" align=""/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekWesley&layout=compact&theme=tokyonight" alt="languages" height="165" width="400" align="">
-
+<img src="https://github-readme-stats.vercel.app/api?username=VivekWesley&show_icons=true&theme=tokyonight" alt="my github stats" height="165"  align=""/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekWesley&layout=compact&theme=tokyonight" alt="languages" height="165"  align="">
 
 </div>
 </div>
-
-
 
 
 <!-- PROFILE VIEWS -->
@@ -56,6 +54,7 @@ var topics = [ "React", "C++", "Data Structures and Algorithms" ]
 
 
 <!-- LANGUAGES LOGO -->
+
 <p align="right">
 <img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" width="30px" height="30px"/>
 <img src="https://devicon.dev/devicon.git/icons/python/python-original.svg" width="30px" height="30px"/>
@@ -75,8 +74,6 @@ var topics = [ "React", "C++", "Data Structures and Algorithms" ]
 <!-- <img src="https://devicon.dev/devicon.git/icons/rust/rust-plain.svg" width="25px" height="25px"/> -->
 <!-- <img src="https://devicon.dev/devicon.git/icons/atom/atom-original.svg" width="25px" height="25px"/> -->
 </p>
-
-
 
 
 <!-- SUPPORT ME SECTION [BUY ME A COFFEE] -->  
