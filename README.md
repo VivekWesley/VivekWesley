@@ -30,8 +30,10 @@ var topics = [ "React", "C++", "Data Structures and Algorithms" ]
 
 <!-- FEATURED PROJECTS -->
 <p align="right">
+  
 ### YOU MIGHT WANT TO CHECK THIS OUT
 [Rick And Morty](https://vivekwesley.github.io/Rick-and-Morty-Episode/ "rick and morty episode app") [ [repo](https://github.com/VivekWesley/Rick-and-Morty-Episode "repo") ]
+
 </p>
 
 
