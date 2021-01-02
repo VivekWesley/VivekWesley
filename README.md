@@ -31,7 +31,7 @@ var topics = [ "React", "C++", "Data Structures and Algorithms" ]
 
 </div>
   
-### YOU MIGHT WANT TO CHECK THIS OUT
+### WANT TO SEE MY WORK?
 [Rick And Morty](https://vivekwesley.github.io/Rick-and-Morty-Episode/ "rick and morty episode app") [ [repo](https://github.com/VivekWesley/Rick-and-Morty-Episode "repo") ]
 
 </div>
