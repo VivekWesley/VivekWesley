@@ -34,29 +34,19 @@ var topics = [ "React", "C++", "Data Structures and Algorithms" ]
 
 </div>
 
-
-
 </div>
 
+<div>
+  
 <!-- HACKTOBERFEST BADGE -->
 [<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ipK3ZYfm--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/80/hacktoberfest2020-badge_2.png" width="60" align="right" />](https://dev.to/badge/hacktoberfest-2020)
 
 </div>
 
-<!-- SUPPORT ME SECTION [BUY ME A COFFEE] -->
-<div>
-<div align="left">
-  
-### :point_down: Support me here!
-<a href="https://www.buymeacoffee.com/vivekwesley" target="_blank" align="left"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" align="left" ></a>
-
-</div>
 
 <div>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekWesley&layout=compact&theme=tokyonight" alt="languages" height="165" width="430" align="right">
-
-</div>
 
 </div>
 
