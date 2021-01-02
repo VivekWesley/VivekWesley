@@ -49,11 +49,34 @@ var topics = [ "React", "C++", "Data Structures and Algorithms" ]
 
 
 
-
-  <!-- PROFILE VIEWS -->
+<!-- PROFILE VIEWS -->
 <div>
 <img src=https://komarev.com/ghpvc/?username=VivekWesley alt="VivekWesley" align="left" />
 </div>
+
+
+<!-- LANGUAGES LOGO -->
+<p align="right">
+<img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" width="30px" height="30px"/>
+<img src="https://devicon.dev/devicon.git/icons/python/python-original.svg" width="30px" height="30px"/>
+<img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" width="30px" height="30px"/>
+<img src="https://devicon.dev/devicon.git/icons/react/react-original.svg" width="30px" height="30px"/>
+<img src="https://devicon.dev/devicon.git/icons/windows8/windows8-original.svg" width="30px" height="30px"/>
+<img src="https://devicon.dev/devicon.git/icons/cplusplus/cplusplus-original.svg" width="30px" height="30px"/>
+<img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" width="30px" height="30px"/>
+
+<!-- <img src="https://devicon.dev/devicon.git/icons/c/c-original.svg" width="25px" height="25px"/> -->
+<!-- <img src="https://devicon.dev/devicon.git/icons/gitlab/gitlab-original.svg" width="25px" height="25px"/> -->
+<!-- <img src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg" width="25px" height="25px"/> -->
+<!-- <img src="https://devicon.dev/devicon.git/icons/java/java-original.svg" width="25px" height="25px"/> -->
+<!-- <img src="https://devicon.dev/devicon.git/icons/php/php-original.svg" width="25px" height="25px"/> -->
+
+<!-- <img src="https://devicon.dev/devicon.git/icons/apple/apple-original.svg" width="25px" height="25px"/> -->
+<!-- <img src="https://devicon.dev/devicon.git/icons/rust/rust-plain.svg" width="25px" height="25px"/> -->
+<!-- <img src="https://devicon.dev/devicon.git/icons/atom/atom-original.svg" width="25px" height="25px"/> -->
+</p>
+
+
 
 
 <!-- SUPPORT ME SECTION [BUY ME A COFFEE] -->  
