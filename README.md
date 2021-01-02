@@ -44,12 +44,12 @@ var topics = [ "React", "C++", "Data Structures and Algorithms" ]
 </div>
 
 <!-- SUPPORT ME SECTION [BUY ME A COFFEE] -->
-<div align="left">
+<p align="left">
 
 ### :point_down: Support me here!
 <a href="https://www.buymeacoffee.com/vivekwesley" target="_blank" align="left"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" align="left" ></a>
 
-</div>
+</p>
 
 <!-- PROFILE VIEWS -->
 <div>
