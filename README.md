@@ -40,8 +40,7 @@ var topics = [ "React", "C++", "Data Structures and Algorithms" ]
 <div>
 <div align="justified">
   
-<img src="https://github-readme-stats.vercel.app/api?username=VivekWesley&show_icons=true&theme=tokyonight" alt="my github stats" width="410" align=""/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekWesley&layout=compact&theme=tokyonight" alt="languages" height="165" width="430" align="">
+<img src="https://github-readme-stats.vercel.app/api?username=VivekWesley&show_icons=true&theme=tokyonight" alt="my github stats" width="410" align=""/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekWesley&layout=compact&theme=tokyonight" alt="languages" height="165" width="430" align="">
 
 
 </div>
