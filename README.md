@@ -11,7 +11,7 @@ Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangand
 # I'M VIVEK WESLEY_
 <code> A BUDDING SOFTWARE DEVELOPER </code>
 
-### MY TECH-STACK
+### MY TECH STACK
 ```javascript
 var myTechStack = [ "Node.js", "React", "MongoDB", "Express" ]
 ```
@@ -76,7 +76,7 @@ var topics = [ "React", "C++", "Data Structures and Algorithms" ]
 
 
 <!-- CONNECT WITH ME -->
-### <code>HOW TO CONNECT WITH ME</code>
+### <code>HOW TO CONNECT WITH ME?</code>
 <p>
 <a href="https://twitter.com/vivek_wesley">
   <img align="left" alt="vivek_wesley | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
