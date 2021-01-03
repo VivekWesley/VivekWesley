@@ -84,6 +84,9 @@ var topics = [ "React", "C++", "Data Structures and Algorithms" ]
 <a href="https://www.linkedin.com/in/vivek-wesley-ab125380/">
   <img align="left" alt="Vivek Wesley's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<a href="https://dev.to/vivekwesley">
+  <img align="left" alt="Vievk Wesley's Spotify" width="22px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--zg3sT9Js--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/practicaldev/image/fetch/s--vHKcEiTe--/c_fill%2Cf_auto%2Cfl_progressive%2Ch_150%2Cq_auto%2Cw_150/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/3/13d3b32a-d381-4549-b95e-ec665768ce8f.png" />
+</a>
 <a href="https://open.spotify.com/user/31ibtllpkpqpjpmwokcppzvn2bi4">
   <img align="left" alt="Vievk Wesley's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
