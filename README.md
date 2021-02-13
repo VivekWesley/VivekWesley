@@ -61,6 +61,8 @@ var topics = [ "React", "C++", "Data Structures and Algorithms" ]
 
 <!-- LANGUAGES LOGO -->
 
+<!-- NOT WORKING -->
+<!--
 <p align="right">
 <img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" width="30px" height="30px"/>
 <img src="https://devicon.dev/devicon.git/icons/python/python-original.svg" width="30px" height="30px"/>
@@ -69,6 +71,7 @@ var topics = [ "React", "C++", "Data Structures and Algorithms" ]
 <img src="https://devicon.dev/devicon.git/icons/windows8/windows8-original.svg" width="30px" height="30px"/>
 <img src="https://devicon.dev/devicon.git/icons/cplusplus/cplusplus-original.svg" width="30px" height="30px"/>
 <img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" width="30px" height="30px"/>
+-->
 
 <!-- <img src="https://devicon.dev/devicon.git/icons/c/c-original.svg" width="25px" height="25px"/> -->
 <!-- <img src="https://devicon.dev/devicon.git/icons/gitlab/gitlab-original.svg" width="25px" height="25px"/> -->
