@@ -84,6 +84,7 @@ var topics = [ "React", "C++", "Data Structures and Algorithms" ]
 <!-- <img src="https://devicon.dev/devicon.git/icons/atom/atom-original.svg" width="25px" height="25px"/> -->
 </p>
 
+<br />
 
 <!-- CONNECT WITH ME -->
 ### <code>HOW TO CONNECT WITH ME?</code>
