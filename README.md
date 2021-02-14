@@ -18,7 +18,7 @@ var myTechStack = [ "Node.js", "React", "MongoDB", "Express" ]
 
 ### WHAT AM I LEARNING?
 ```javascript
-var topics = [ "React", "C++", "Data Structures and Algorithms" ] 
+var topics = [ "React", "TypeScript", "C++", "Data Structures and Algorithms" ] 
 ``` 
 
 <!-- FEATURED PROJECTS -->
