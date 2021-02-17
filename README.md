@@ -113,6 +113,7 @@ var topics = [ "React", "TypeScript", "C++", "Data Structures and Algorithms" ]
 
 </p>
 <HappyCoding/> 
+<happyCoding />
 
 
 <!-- SUPPORT ME SECTION [BUY ME A COFFEE] -->  
