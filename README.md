@@ -28,7 +28,7 @@ var topics = [ "React", "TypeScript", "C++", "Data Structures and Algorithms" ]
 <!-- E CERTIFICATES | BADGES | AWARDS -->
 
 <!-- #2 MASTER THE MAINFRAME CERTIFICATE -->
-[<img src="https://discussions-static.influitive.com/uploads/db_8c911bd8_e163_4fd5_90b3_13906a121f19/original/2X/8/8c4dc175d0e4cc0a85e2f54e6f13d8a350ffa065.jpeg" width="60" align="right" />](https://discussions-static.influitive.com/uploads/db_8c911bd8_e163_4fd5_90b3_13906a121f19/original/2X/8/8c4dc175d0e4cc0a85e2f54e6f13d8a350ffa065.jpeg)
+<!-- [<img src="https://discussions-static.influitive.com/uploads/db_8c911bd8_e163_4fd5_90b3_13906a121f19/original/2X/8/8c4dc175d0e4cc0a85e2f54e6f13d8a350ffa065.jpeg" width="60" align="right" />](https://discussions-static.influitive.com/uploads/db_8c911bd8_e163_4fd5_90b3_13906a121f19/original/2X/8/8c4dc175d0e4cc0a85e2f54e6f13d8a350ffa065.jpeg) -->
 
 <!-- #1 HACKTOBERFEST BADGE -->
 [<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ipK3ZYfm--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/80/hacktoberfest2020-badge_2.png" width="60" align="right" />](https://dev.to/badge/hacktoberfest-2020)
